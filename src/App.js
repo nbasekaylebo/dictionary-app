@@ -12,7 +12,16 @@ export default function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Nastassja Basekay</small>
+          <small>
+            Coded by Nastassja Basekay open source on{" "}
+            <a
+              href="https://github.com/nbasekaylebo/dictionary-app"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Github
+            </a>
+          </small>
         </footer>
       </div>
     </div>

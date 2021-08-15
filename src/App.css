@@ -1,5 +1,5 @@
 body {
-  background: #fafafa;
+  background: #eb550f56;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 .App {
-  max-width: 960px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -21,4 +21,10 @@ h1 {
   text-align: center;
   font-size: smaller;
   margin: 30px 0;
+  font-weight: 200;
+}
+
+.App-footer a {
+  text-decoration: none;
+  color: #000000;
 }
